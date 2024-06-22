@@ -1,0 +1,21 @@
+<!DOCTYPE bookstore SYSTEM "bookstore.dtd">
+<bookstore>  
+    <book category="BHAGAVATGITA">  
+      <title lang="en">way of living</title>  
+      <author>vyasa maharshi</author>  
+      <year>100 bc</year>  
+      <price>100.00</price>  
+    </book>  
+    <book category="MAHABHARATH">  
+      <title lang="truth"</title>  
+      <author> vikata kavi</author>  
+      <year>50 bc</year>  
+      <price>55.99</price>  
+    </book>  
+    <book category=RAMAYAN">  
+      <title lang="en">values of life</title>  
+      <author> valmiki </author>  
+      <year>60 bc</year>  
+      <price>110</price>  
+    </book>  
+</bookstore>  
